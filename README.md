@@ -1,4 +1,4 @@
-![TimeCrystal-Q cover](assets/cover.png)
+![TimeCrystal-Q cover](TimeCrystal-Q%20cover.png)
 
 # TimeCrystal-Q ⏳💎
 
